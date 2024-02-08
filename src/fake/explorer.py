@@ -1,5 +1,6 @@
 from src.model.explorer import Explorer
 
+# fake data, until we use a real database and SQL
 _explorers = [
     Explorer(
         name='Claude Hande',
